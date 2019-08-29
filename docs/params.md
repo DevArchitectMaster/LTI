@@ -72,9 +72,6 @@ Request Body:
   "resource_link_id": "1",
   "context_type": "CourseSection",
   "lis_course_section_sourcedid": "",
-  [<Bewertungen aus dem Tool akzeptieren>]
-  [<Anwendername an Tool übergeben>]
-  [<E-Mail des Anwenders an Tool übergeben>]
   "launch_presentation_locale": "de",
   "ext_lms": "moodle-2",
   "tool_consumer_info_product_family_code": "moodle",
