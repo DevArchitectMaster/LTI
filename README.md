@@ -8,4 +8,4 @@ Each LTI connection requires an **LTI provider** to deliver the external content
 
 Authentication at LTI is realized by means of [OAuth](http://oauth.net/).
 
-More informations under [/docs](/docs/).
+More informations at [/docs](/docs/).
